@@ -22,7 +22,7 @@ public class Sumatorio {
 			if (i % 2 == 0)
 				suma += i;
 		}
-
+		;
 		return suma;
 	}
 
